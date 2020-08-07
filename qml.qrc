@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>files/ElBano.mp3</file>
+        <file>files/audio.flac</file>
+        <file>files/audio.mp3</file>
+        <file>files/audio.mp4</file>
+        <file>files/background.jpg</file>
+        <file>files/forward.png</file>
+        <file>files/mute.png</file>
+        <file>files/pause.png</file>
+        <file>files/play.png</file>
+        <file>files/Rewind.png</file>
+        <file>files/speaker.png</file>
+    </qresource>
+</RCC>
